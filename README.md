@@ -9,12 +9,19 @@ It's also my first time that I'm using GIT by myself, outside of university clas
 Currently I'm working on the design and funcionalities of this App. Once I start to develop the code, I will change this paragraph.
 
 For version 1.X, the funtionalities are:
+-- Do the main Design
+-- Giving n different marks, calculate the final mark that the student got. All marks have the same weight, for example, if n = 4, so we will have 4 marks and each one is 25% (100%/4=25%). The calculator works only with marks from 0 to 100%
+
+For Version 2.X, the funtionalities are:
 -- The App is suppose to contemplain multiple Scenerios for example different grade schales (1 to 100, 0 to 20, 1 to 200, 1 to 10, ...)
 -- Different number of evaluation moments (for example we can have 4 tests, or 2 tests during a semester/year/... )
 -- Different weights on different evaluation moments (for example to 4 evaluation moments we can have 10% for the first evaluation moment, 30% for second, 32% for third and 36% for fourth evaluation moment).
 
-For evaluation 2.X, the funtionalities are:
+For Version 3.X, the funtionalities are:
 -- Add a mechanism to calculate how much a student have to get on the remain evaluation moments to get a mark that he wants.
+
+For Version 4.X, the funtionalities are:
+-- Option to save and load the marks for different subject! 
 
 
 ## Motivation
